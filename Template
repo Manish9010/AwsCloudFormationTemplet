@@ -1,6 +1,6 @@
 #Myntra VPC - Cloud Formation 
 
-AWSTemplateFormatVersion: "2022-09-11"
+AWSTemplateFormatVersion: "2010-09-09"
 Description: VPC for Myntra Project
 Resources:
   MyntraVPC: 
